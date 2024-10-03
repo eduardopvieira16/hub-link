@@ -3,5 +3,5 @@ function lightTheme() {
   const img = document.querySelector("#profile img")
 
   // definir a imagem diretamente
-  img.setAttribute("src", "./assets/avatar.jpg")
+  img.setAttribute("src", "../assets/avatar.jpg")
 }
